@@ -1,0 +1,17 @@
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\bin\Debug\MoviesWPF.exe.config
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\bin\Debug\MoviesWPF.exe
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\bin\Debug\MoviesWPF.pdb
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.csproj.AssemblyReference.cache
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\App.g.cs
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF_MarkupCompile.cache
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF_MarkupCompile.lref
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\App.baml
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MainWindow.baml
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.g.resources
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.Properties.Resources.resources
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.csproj.GenerateResource.cache
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.exe
+C:\Users\Karan\Documents\Career\Projects\WPF_C#\MoviesWPF\MoviesWPF\obj\Debug\MoviesWPF.pdb
